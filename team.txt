@@ -1,0 +1,50 @@
+11
+MacKenna Parker
+Forward
+Senior
+-----
+17
+Lacey Martin
+Forward
+Sophomore
+-----
+23
+Tamara Giaquinto
+Defense
+Sophomore
+-----
+28
+Catherine Foulem
+Forward
+Sophomore
+-----
+31
+Nicole Mcguigan
+Goalie
+Senior
+-----
+37
+Callie Shanahan
+Goalie
+Freshman
+-----
+7
+Kylie Roberts
+Forward
+Freshman
+-----
+3
+Liv Haag
+Forward
+Freshman
+-----
+4
+Lou Martin
+Defense
+Junior
+-----
+15
+Ellie Larson
+Defense
+Grad Student
+-----
